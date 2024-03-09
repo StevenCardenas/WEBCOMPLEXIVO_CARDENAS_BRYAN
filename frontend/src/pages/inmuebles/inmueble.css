@@ -1,0 +1,20 @@
+/*Inmubles css*/
+.img-icon {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+  }
+  
+  .conttable {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+  }
+  
+  @media (max-width: 768px) {
+    .conttable {
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
